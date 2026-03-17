@@ -48,7 +48,3 @@ Each ticket is backed by a specific entry in the Knowledge Base:
 * **Process Automation:** Linking cloud tools for seamless information flow.
 * **Technical Documentation:** Writing clear, professional SOPs for IT teams.
 * **Prioritization:** Managing urgency and impact levels in a high-demand environment.
-
----
-**Contact:**
-[Your Name] - [Your LinkedIn Profile Link]
