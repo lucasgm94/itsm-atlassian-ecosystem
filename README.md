@@ -36,4 +36,4 @@ This repository focuses on professional **IT Support Operations** and **Service 
 ---
 
 ### 📧 Connectivity
-Let's connect on [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) to discuss IT Operations and Cloud infrastructure.
+Let's connect on [LinkedIn](https://www.linkedin.com/in/lucas-gaston-martinez/) to discuss IT Operations and Cloud infrastructure.
